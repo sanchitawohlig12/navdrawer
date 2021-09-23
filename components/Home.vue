@@ -58,5 +58,6 @@ h1 {
   font-size: 80px;
   padding-left: 10%;
   padding-right: 10%;
+  text-shadow: 0 0 5px rgb(223, 3, 39);
 }
 </style>
